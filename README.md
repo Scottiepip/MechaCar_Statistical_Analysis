@@ -42,4 +42,4 @@ Lot 3
 
 ![image](https://user-images.githubusercontent.com/108709071/195504620-721de018-2b9b-4ead-8679-887cffb850a3.png)
 
-
+## Study Design: MechaCar vs Competition
