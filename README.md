@@ -61,4 +61,5 @@ Fuel efficiency is one of important factor to determine a vehicle's performance.
 
   - The metrics I will going to teat will be city mpg and highway mpg.
   - The null hypothesis is there is no difference in fuel efficiency between MechaCar vehicles and other manufacturers' vehicles.
-  - 
+  - I will usae the ANOVA test to test the hypothesis as ANOVA test is good for comparing the means of a continuous numerical variable across a number of groups.
+  - To conduct the test, we would require MechaCar and other Manufacturers's vehicles fuel efficincy data based on different vehicle class. 
