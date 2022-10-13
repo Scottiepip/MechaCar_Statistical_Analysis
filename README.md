@@ -57,3 +57,8 @@ Lot 3
 - P-value for lot 3 is 0.042, it is less than the assumed significance level of 0.05%. It meas that we have sufficient evidence to state that lot 3 is statistically different from the population mean of 1,500 psi.
 
 ## Study Design: MechaCar vs Competition
+Fuel efficiency is one of important factor to determine a vehicle's performance. It will be good to compare the fuel efficiency of MechaCar vehicles to other manufacturers' vehicles based on different class of vehicles.
+
+  - The metrics I will going to teat will be city mpg and highway mpg.
+  - The null hypothesis is there is no difference in fuel efficiency between MechaCar vehicles and other manufacturers' vehicles.
+  - 
