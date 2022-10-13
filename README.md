@@ -39,3 +39,7 @@ Lot 2
 ![image](https://user-images.githubusercontent.com/108709071/195504557-14d85b9e-3ebe-47ba-b44a-4600445ebc73.png)
 
 Lot 3
+
+![image](https://user-images.githubusercontent.com/108709071/195504620-721de018-2b9b-4ead-8679-887cffb850a3.png)
+
+
