@@ -14,6 +14,9 @@ In this challenge, we are helping Jeremy and the data analytics team do the foll
 ## Linear Regression to Predict MPG:
 ![image](https://user-images.githubusercontent.com/108709071/195501043-5bbf11ad-380b-4e41-9162-3128fb333e65.png)
 
+  - According to the result, vehicle_length and ground_clearance are providing non-random amount of variance to the mpg values in the dataset.
+  - The slope of the linear model is not consider to be zero. The P-value for the other three variables, vehicle_weight, spoiler_angle and AWD are all greater thean  0.05, it means that all these three variables have significant impact on mpg values.
+
 ## Summary Statistics on Suspension Coils
 
 Total Summary
