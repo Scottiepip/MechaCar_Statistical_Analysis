@@ -28,7 +28,7 @@ Lot Summary
 
 All Lots
 
-
+![image](https://user-images.githubusercontent.com/108709071/195504454-781d45b3-e03b-496c-9a9f-ae98259ece3b.png)
 
 Lot 1
 
