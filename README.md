@@ -17,6 +17,7 @@ In this challenge, we are helping Jeremy and the data analytics team do the foll
 ## Summary Statistics on Suspension Coils
 
 Total Summary
+
 ![image](https://user-images.githubusercontent.com/108709071/195502913-1eb3cbcf-ec78-4f2d-b4d3-72a031f9d524.png)
 
 Lot Summary
