@@ -32,7 +32,7 @@ All Lots
 
 Lot 1
 
-
+![image](https://user-images.githubusercontent.com/108709071/195504511-e622122e-c7af-4bf3-8bc6-7092f3dc8dc8.png)
 
 Lot 2
 
