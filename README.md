@@ -36,6 +36,6 @@ Lot 1
 
 Lot 2
 
-
+![image](https://user-images.githubusercontent.com/108709071/195504557-14d85b9e-3ebe-47ba-b44a-4600445ebc73.png)
 
 Lot 3
