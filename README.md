@@ -36,16 +36,24 @@ All Lots
 
 ![image](https://user-images.githubusercontent.com/108709071/195504454-781d45b3-e03b-496c-9a9f-ae98259ece3b.png)
 
+  - The P-value for all manufacturing lots in total is 0.45 which is greater than the assumed significance level of 0.05%. So we can state that for all manufacturing lots in total there is no statistically different from the population mean of 1,500 psi.
+
 Lot 1
 
 ![image](https://user-images.githubusercontent.com/108709071/195504511-e622122e-c7af-4bf3-8bc6-7092f3dc8dc8.png)
+
+  - P-value for lot 1 is 1, greather than the assumed significance level of 0.05%. Lot 1 is no statistically different from the population mean of 1,500 psi.
 
 Lot 2
 
 ![image](https://user-images.githubusercontent.com/108709071/195504557-14d85b9e-3ebe-47ba-b44a-4600445ebc73.png)
 
+- P-value for lot 2 is 0.61, greather than the assumed significance level of 0.05%. Lot 2 is no statistically different from the population mean of 1,500 psi.
+
 Lot 3
 
 ![image](https://user-images.githubusercontent.com/108709071/195504620-721de018-2b9b-4ead-8679-887cffb850a3.png)
+
+- P-value for lot 3 is 0.042, it is less than the assumed significance level of 0.05%. It meas that we have sufficient evidence to state that lot 3 is statistically different from the population mean of 1,500 psi.
 
 ## Study Design: MechaCar vs Competition
