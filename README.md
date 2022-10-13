@@ -28,6 +28,8 @@ Lot Summary
 
 ![image](https://user-images.githubusercontent.com/108709071/195503012-a446e6a0-a5f2-4026-8a00-f4ea7e4968c5.png)
 
+  - According to the result, manufacturing data meet this design specification for all manufacturing lots in total as the variance for all lots in total is 62 psi which is lower than the 100 psi allowance. But if we look at the 3 lots individually, we can see that lot 1 and lot 2 meets the specification with variance of only 1 psi and 7 psi, and lot 3 has a variance of 170 psi which is out of specification.
+
 ## T-Tests on Suspension Coils
 
 All Lots
