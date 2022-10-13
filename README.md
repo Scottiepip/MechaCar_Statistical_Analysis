@@ -14,4 +14,5 @@ In this challenge, we are helping Jeremy and the data analytics team do the foll
 ## Linear Regression to Predict MPG:
 ![image](https://user-images.githubusercontent.com/108709071/195501043-5bbf11ad-380b-4e41-9162-3128fb333e65.png)
 
+## Summary Statistics on Suspension Coils
 
